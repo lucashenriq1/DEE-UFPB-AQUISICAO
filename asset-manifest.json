@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DEE-UFPB-AQUISICAO/static/css/main.f2745ea6.chunk.css",
-    "main.js": "/DEE-UFPB-AQUISICAO/static/js/main.bdd8f2f2.chunk.js",
-    "main.js.map": "/DEE-UFPB-AQUISICAO/static/js/main.bdd8f2f2.chunk.js.map",
+    "main.js": "/DEE-UFPB-AQUISICAO/static/js/main.246178e3.chunk.js",
+    "main.js.map": "/DEE-UFPB-AQUISICAO/static/js/main.246178e3.chunk.js.map",
     "runtime-main.js": "/DEE-UFPB-AQUISICAO/static/js/runtime-main.c75861ee.js",
     "runtime-main.js.map": "/DEE-UFPB-AQUISICAO/static/js/runtime-main.c75861ee.js.map",
     "static/js/2.12f6312d.chunk.js": "/DEE-UFPB-AQUISICAO/static/js/2.12f6312d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c75861ee.js",
     "static/js/2.12f6312d.chunk.js",
     "static/css/main.f2745ea6.chunk.css",
-    "static/js/main.bdd8f2f2.chunk.js"
+    "static/js/main.246178e3.chunk.js"
   ]
 }
