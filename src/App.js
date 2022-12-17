@@ -97,7 +97,7 @@ function App() {
         });
         
       },
-      500
+      1000
     );
     // clean up interval on unmount
     return () => {
