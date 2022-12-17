@@ -5,6 +5,12 @@
             "host": "broker.emqx.io",
             "port": 1883,
             "clientId": "vsmqtt_client"
+        },
+        {
+            "name": "novo",
+            "host": "broker.emqx.io",
+            "port": 1883,
+            "clientId": "vsmqtt_client"
         }
     ]
 }
