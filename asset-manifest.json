@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UFPB-aquisicao-nodes/static/css/main.f2745ea6.chunk.css",
+    "main.js": "/UFPB-aquisicao-nodes/static/js/main.bdd8f2f2.chunk.js",
+    "main.js.map": "/UFPB-aquisicao-nodes/static/js/main.bdd8f2f2.chunk.js.map",
+    "runtime-main.js": "/UFPB-aquisicao-nodes/static/js/runtime-main.674ebb8c.js",
+    "runtime-main.js.map": "/UFPB-aquisicao-nodes/static/js/runtime-main.674ebb8c.js.map",
+    "static/js/2.e553c6d9.chunk.js": "/UFPB-aquisicao-nodes/static/js/2.e553c6d9.chunk.js",
+    "static/js/2.e553c6d9.chunk.js.map": "/UFPB-aquisicao-nodes/static/js/2.e553c6d9.chunk.js.map",
+    "static/js/3.bc024f89.chunk.js": "/UFPB-aquisicao-nodes/static/js/3.bc024f89.chunk.js",
+    "static/js/3.bc024f89.chunk.js.map": "/UFPB-aquisicao-nodes/static/js/3.bc024f89.chunk.js.map",
+    "index.html": "/UFPB-aquisicao-nodes/index.html",
+    "static/css/main.f2745ea6.chunk.css.map": "/UFPB-aquisicao-nodes/static/css/main.f2745ea6.chunk.css.map",
+    "static/js/2.e553c6d9.chunk.js.LICENSE.txt": "/UFPB-aquisicao-nodes/static/js/2.e553c6d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674ebb8c.js",
+    "static/js/2.e553c6d9.chunk.js",
+    "static/css/main.f2745ea6.chunk.css",
+    "static/js/main.bdd8f2f2.chunk.js"
+  ]
+}
